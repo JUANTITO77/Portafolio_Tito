@@ -47,25 +47,25 @@ export const dataProductos = [
   {
     img: img7,
     title: "Web Informativo",
-    precio: "$9.99",
+    precio: "",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
     img: img7,
     title: "Sist. Inventario",
-    precio: "$9.99",
+    precio: "",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
     img: img7,
     title: "Pos de Venta",
-    precio: "$9.99",
+    precio: "",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
   {
     img: img7,
     title: "Control de Gastos",
-    precio: "$9.99",
+    precio: "",
     bgcolor: "rgba(152, 23, 238,0.5)",
   },
 ];
